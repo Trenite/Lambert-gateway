@@ -83,7 +83,7 @@ const client = new WebSocketShard({
 	id: 0,
 	shardCount: 1,
 	version: 6,
-	token: "NzU5NDM5NzY1MDczNDI4NTAw.X29hZQ.QPZDWngwIrtt1MAi6Slk7cnDOkM",
+	token: "",
 	intents: 1,
 	large_threshold: 50,
 });
